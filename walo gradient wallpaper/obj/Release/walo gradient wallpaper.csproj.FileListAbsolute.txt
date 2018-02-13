@@ -1,0 +1,13 @@
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\walo gradient wallpaper.exe.config
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\walo gradient wallpaper.exe
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\walo gradient wallpaper.pdb
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\BunifuRadioButton.dll
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\Bunifu_UI_v1.5.4.dll
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\bin\Release\BunifuRadioButton.pdb
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo_gradient_wallpaper.Form1.resources
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo_gradient_wallpaper.Properties.Resources.resources
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo gradient wallpaper.csproj.GenerateResource.Cache
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo gradient wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo gradient wallpaper.exe
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo gradient wallpaper.pdb
+C:\Users\KIM TOO FLEX\source\repos\walo gradient wallpaper\walo gradient wallpaper\obj\Release\walo gradient wallpaper.csprojResolveAssemblyReference.cache
